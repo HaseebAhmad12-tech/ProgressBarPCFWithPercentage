@@ -17,3 +17,4 @@ The bar fills based on the field value and also shows the percentage text.
 
 ## Author
 Created by Haseeb Ahmad 🚀
+<img width="379" height="49" alt="image" src="https://github.com/user-attachments/assets/15f63528-5e1f-4d51-8804-a318d97ddb0d" />
