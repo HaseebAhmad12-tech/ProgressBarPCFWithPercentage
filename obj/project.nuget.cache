@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yuzSBCv0aqs=",
+  "success": true,
+  "projectFilePath": "E:\\ProgressBarPCF(HaseebAhmad)\\ProgressBarPCF(HaseebAhmad).pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Haseeb Ahmad\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Haseeb Ahmad\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\Haseeb Ahmad\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.47.1\\microsoft.powerapps.msbuild.pcf.1.47.1.nupkg.sha512"
+  ],
+  "logs": []
+}
